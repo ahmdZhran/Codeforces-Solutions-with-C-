@@ -1,4 +1,4 @@
-# codeforces-with-c-
+# Codeforces Solutions with C++
 This repository contains my solutions to problems on Codeforces written in C++.
 How to Use
 You can access the solutions for each problem by navigating to the corresponding folder named after the problem code.
