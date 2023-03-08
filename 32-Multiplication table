@@ -7,5 +7,4 @@ int main() {
     z = n * i ;
     cout<<n << " * " << i << " = " << z<<endl;
     }
-   
 }
